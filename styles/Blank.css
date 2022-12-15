@@ -1,0 +1,52 @@
+/* well now let's make this interesting */
+
+body{
+    background-color:aliceblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1, h2{
+    font-family: Monaco, Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bolder;
+}
+
+ul{
+    font-style: italic;
+}
+
+section{
+    color: rgb(70, 84, 84)
+}
+
+.header{
+    color: whitesmoke;
+    border: 2px solid black;
+    background-image: url('../images/IMG_4290.JPG');
+    height:300px;
+    background-size: cover;
+
+}
+
+.title{
+    line-height: 2885%;
+}
+
+.menu{
+    color: black;
+    text-align: center;
+}
+
+.vid{
+    position:relative;
+    height: 400px;
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    color: rgb(70, 84, 84) ;
+
+}
+
+.tableauPlaceholder{
+    border: 5px solid black;
+    margin: auto;
+}
